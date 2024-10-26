@@ -40,7 +40,7 @@ Principais Stakeholders
 Created by:
 
 - Ramon Rodrigues
-- Anderson
+- Anderson Costa Azevedo
 - Arthur
 - Marcus Vinícius
 - Nicolas Soares
