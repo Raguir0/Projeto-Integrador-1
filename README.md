@@ -8,19 +8,19 @@ Documentos físicos estão sujeitos a uma série de problemas, como perda, roubo
 
 Público-Alvo
 
-•	Indivíduos adultos e jovens que desejam ter acesso rápido e seguro aos seus documentos pessoais.
+ •	Indivíduos adultos e jovens que desejam ter acesso rápido e seguro aos seus documentos pessoais.
 
-•	Usuários frequentes de serviços que exigem identificação, como serviços financeiros, educacionais ou governamentais, ou que precisam de cópias rápidas para comprovar identidade.
+ •	Usuários frequentes de serviços que exigem identificação, como serviços financeiros, educacionais ou governamentais, ou que precisam de cópias rápidas para comprovar identidade.
 
-•	Faixa etária principal: de 18 a 65 anos, com perfil voltado para praticidade e segurança, especialmente em centros urbanos.
+ •	Faixa etária principal: de 18 a 65 anos, com perfil voltado para praticidade e segurança, especialmente em centros urbanos.
 
 O que a ideia faz
 
-•	Permite que os usuários digitalizem e armazenem documentos importantes no aplicativo.
-•	Oferece um sistema de organização com categorização de documentos, como identidade, cartões, boletos e etc.
-•	Facilita o compartilhamento seguro dos documentos com terceiros, por meio de QR code, links temporários ou e-mails.
-•	Inclui recursos de segurança, como autenticação biométrica e verificação em duas etapas para garantir que os documentos só sejam acessados por quem tiver permissão.
-•	Fornece acesso offline aos documentos, de forma que possam ser acessados sem internet em caso de emergência.
+ •	Permite que os usuários digitalizem e armazenem documentos importantes no aplicativo.
+ •	Oferece um sistema de organização com categorização de documentos, como identidade, cartões, boletos e etc.
+ •	Facilita o compartilhamento seguro dos documentos com terceiros, por meio de QR code, links temporários ou e-mails.
+ •	Inclui recursos de segurança, como autenticação biométrica e verificação em duas etapas para garantir que os documentos só sejam acessados por quem tiver permissão.
+ •	Fornece acesso offline aos documentos, de forma que possam ser acessados sem internet em caso de emergência.
 
 O que a ideia não faz
 
