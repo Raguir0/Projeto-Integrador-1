@@ -41,7 +41,6 @@ Created by:
 
 - Ramon Rodrigues
 - Anderson Costa Azevedo
-- Arthur
 - Marcus Vinícius
 - Nicolas Soares
 
