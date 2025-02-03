@@ -31,9 +31,13 @@ O que a ideia não faz
 Principais Stakeholders
 
    •	Usuários: Pessoas que querem armazenar e ter acesso aos seus documentos de forma segura e prática.
+   
    •	Desenvolvedores e equipe de TI: Responsáveis pelo desenvolvimento e manutenção do aplicativo, garantindo a segurança e usabilidade.
+   
    •	Equipe de segurança da informação: Encarregada de implementar e monitorar as práticas de segurança e privacidade de dados, protegendo o acesso aos documentos.
+   
    •	Investidores: Interessados no potencial do mercado de segurança digital e praticidade oferecida pela plataforma.
+   
    •	Equipe de marketing: Responsável por promover o Walleasy, alcançando novos usuários e reforçando o valor da marca no mercado.
 
 
